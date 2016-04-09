@@ -1,0 +1,3 @@
+A collection of tools put together with the objective of automating the processing of digital forensic artifacts for analysis/visualization.
+
+The central idea is not to reinvent the wheel, but build on the existing supply of digital forensic processing tools available - to provide an automation layer that normalizes the output of various tools thus enabling visualization on a common platform and facilitating the correlation analysis of the data.
